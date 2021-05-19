@@ -1,0 +1,43 @@
+.centerCheckbox {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.textEnd {
+    text-align: end;
+}
+.image {
+    width: 120px !important;
+    height: 100px !important;
+}
+
+.itemContainer {
+    border: gray;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.leftHeadingPriceSection {
+    font-size: 17px;
+}
+
+
+.rightHeadingPriceSection {
+    font-size: 17px;
+    text-align: end;
+}
+
+.totalAmountContainer {
+    border: gray;
+    border-style: dashed;
+    border-width: 2px;
+    border-left: none;
+    border-right: none;
+}
+
+.discountText{ 
+    font-size: 16px;
+    font-weight: bold;
+}

@@ -1,0 +1,16 @@
+.centerCheckbox {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.textEnd {
+    text-align: end;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+.imageContainer1 {
+    height: 200px !important;
+}

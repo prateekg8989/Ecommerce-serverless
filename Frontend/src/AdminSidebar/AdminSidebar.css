@@ -1,0 +1,37 @@
+.categoryTitle {
+  background: lightgray;
+  color: #676464;
+  font-weight: 550;
+}
+.categoryTitle:hover {
+  color: #676464;
+}
+
+.navBgColor {
+  background-color: #03334f;
+}
+
+.roundedCorners {
+  border-radius: 20px !important;
+}
+.boldFont {
+  font-weight: 550;
+}
+.lightBoldFont {
+  font-weight: 500;
+  color: white;
+}
+.categoryNameStyle {
+  color: black;
+  font-size: 16px;
+  font-style: normal;
+}
+.plusSign {
+  color: lightgray;
+}
+.categoryLink {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}

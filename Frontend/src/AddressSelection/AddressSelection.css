@@ -1,0 +1,16 @@
+.centerCheckbox {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.textEnd {
+    text-align: end;
+}
+
+.addressSelectionTick {
+    z-index: 5;
+    padding: 0;
+    height: 0px;
+    text-align: end;
+}

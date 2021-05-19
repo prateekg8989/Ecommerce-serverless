@@ -1,0 +1,45 @@
+.d-i-grid {
+  display: grid;
+}
+
+.cursor-p {
+  cursor: pointer;
+}
+
+.imageCss {
+    width: 200px !important;
+    height: 145px !important;
+}
+
+.imageContainer {
+  width: 100%;
+  text-align: center;
+}
+
+.font16 {
+  font-size: 16px !important;
+}
+
+.font14 {
+  font-size: 14px !important;
+}
+
+.discountBadge {
+  width: fit-content;
+}
+.striked {
+  text-decoration: line-through;
+}
+
+.productContainerAdmin {
+  height: 350px !important;
+}
+
+.productContainerCustomer {
+  height: 300px !important;
+}
+.shortText {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis !important;
+}
